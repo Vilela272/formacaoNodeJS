@@ -8,7 +8,7 @@
 </h1>
 ---
 
-### :scroll: About
+### :scroll: What you will learn
 ```bash
 #   - NodeJS
 
