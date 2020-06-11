@@ -1,12 +1,8 @@
 ### :computer: Formação Node.js - Aprenda a criar qualquer sistema web, com Node.js e Javascript na prática, domine as principais tecnologias do mercado.
 
 <h1 align="center">
-    <img src="https://i.ibb.co/jbdkx5k/nodejs-logo.png">
+    <img src="https://i.ibb.co/DkCSSZY/nodejs.jpg">
 </h1>
-<h1 align="center">
-    <img src="https://i.ibb.co/RP3H19M/nodejs-2-562x3092x-op.png">
-</h1>
----
 
 ### :scroll: What you will learn
 ```bash
