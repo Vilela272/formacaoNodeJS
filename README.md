@@ -149,7 +149,7 @@ $ npm start
 ```
 ---
 ## Estrutura de pastas 📚  
-
+```bash
 src
 │   app.js          # Classe app  
 │   server.js       # Server para iniciar o app  
@@ -166,7 +166,7 @@ src
 └───helpers         # Trechos de arquitetura de código  
 └───routes          # Definição de rotas express  
 └───types           # Tipagem (d.ts) para Typescript  
-
+```
 ---
 ## :black_nib: Student - Guilherme Vilela Moreira
 
