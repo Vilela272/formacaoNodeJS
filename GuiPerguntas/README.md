@@ -6,8 +6,9 @@
 
  [Projeto #01] Criando uma plataforma de perguntas e respostas
 ---
-#### :japanese_ogre: Back-end | ### :nail_care: Front-End
-```javascript
+### Stack
+#### :japanese_ogre: Back-end | :nail_care: Front-End
+```js
 Node.js  |  ES6/ES7  |  Express.js  |  MySQL  |  MongoDB
 
 Mongoose  |  Socket io  |  REST    | Testes      |  TDD
@@ -15,15 +16,15 @@ Mongoose  |  Socket io  |  REST    | Testes      |  TDD
 Debug de aplicações Node            | Vue JS
 ```
 ---
-```javascript
 ## :wave: How to Use
+```js
 1. Clone the repository
 2. Install Node.js
 3. Install Yarn or NPM
 ```
 ---
 ### Install API (back-end)
-```bash
+```js
 # Install the dependencies
 $ npm install body-parser
 $ npm install express
