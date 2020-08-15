@@ -8,11 +8,25 @@ app.get("/", (req, res) => {
 });
 
 app.get("/blog/:artigo?", (req, res) => {
-    res.end("Seja bem bindo ao blog!");
+
+    let artigo = req.params.artigo;
+
+    if(artigo){
+        res.end("Artigo: " + artigo);
+    }else {
+        res.end("Seja bem bindo ao blog!");
+    }
 });
 
 app.get("/canal/youtube", (req, res) => {
-    res.end("Seja bem vindo ao meu canal no youtube")
+
+    let canal = req.query["canal"];
+    
+    if(canal) {
+        res.end(canal);
+    } else {
+        res.end("Nenhum canal fornecido!");
+    }
 });
 
 // Passando o parametro [:nome] na rota ola
